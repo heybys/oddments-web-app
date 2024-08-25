@@ -18,7 +18,7 @@ export function GlobalNavigation() {
       <div className={globalNavigationWrapperStyle()}>
         <a href={"/"} className="flex items-center gap-3 absolute left-0 pl-3">
           <Icon name={"codesandbox"} size={40} color={'darkblue'}></Icon>
-          <H3>Oddments Apps</H3>
+          <H3>Oddments Store</H3>
         </a>
         <NavigationMenu>
           <NavigationMenuList>
